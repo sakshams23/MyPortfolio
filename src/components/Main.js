@@ -16,10 +16,10 @@ export class Main extends Component {
           cursorChar=">"
           showCursor={true}
         /></li>
-            <li className=" laptop:mt-3 laptop:text-xl phone:text-xs">
+            <li className=" laptop:mt-3 laptop:text-xl phone:text-sm">
                 As a highly motivated individual, I am currently pursuing a Bachelor's degree in Electronics Engineering from Kamla Nehru Institute of Technology Sultanpur.My enthusiasm for programming has driven me to acquire proficiency in various languages, such as Java, C++, JavaScript, and Python. I have a keen interest in cutting-edge web technologies, particularly MERN Stack, and have hands-on experience in developing local websites. Emphasising the value of teamwork, I actively seek opportunities to collaborate and learn from peers. Feel free to reach out for discussions on anything related to programming and web development.
             </li>
-            <li className="mt-6 laptop:text-lg phone:text-xs">
+            <li className="mt-6 laptop:text-lg phone:text-sm">
                 <button  className=" bg-gray-300 text-black font-mono  px-4 py-2 rounded  shadow-[rgba(0,_0,_0,_0.3)_0px_30px_90px]  transition transform hover:scale-105 active:scale-95">
                     <a href={Resume} download="Saksham_Soni.pdf" className=" text-black ">Download Resume</a>
                 </button>
