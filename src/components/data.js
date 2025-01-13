@@ -13,8 +13,7 @@ const cardData = [
       id: 2,
       videoSrc: require('../assets/vc.mp4'), 
       title: 'Crop Recommendation',
-      description: 'Developed a Machine learning-based crop recommendation system using RandomForestClassifier-
-, preprocessing data with MinMaxScaler and using soil content and environmental factors for predictions.',
+      description: 'Developed a Machine learning-based crop recommendation system using RandomForestClassifier, preprocessing data with MinMaxScaler and using soil content and environmental factors for predictions.',
       link1: 'https://github.com/sakshams23/Crop_recommendations',
       link2: 'https://github.com/sakshams23/Crop_recommendations/blob/main/Crop%20Recommendation.ipynb',
     },
