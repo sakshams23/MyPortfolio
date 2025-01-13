@@ -6,7 +6,7 @@ export class Main extends Component {
     return (
         <div className=" h-full flex flex-col items-start justify-evenly laptop:px-28 laptop:pt-40  text-black phone:px-18 phone:pt-28 phone:px-5">
         <ul className=" list-none">
-            <li className=" laptop:font-semibold laptop:text-3xl laptop:mb-3 phone:text-xl phone:mb-1  ">Hi! My name is Saksham Soni</li>
+            <li className=" laptop:font-semibold laptop:text-2xl laptop:mb-3 phone:text-xl phone:mb-1  ">Hi! My name is Saksham Soni</li>
             <li className=" laptop:text-2xl laptop:font-medium phone:text-lg">
         <ReactTyped
           strings={["Full Stack Developer", "Competitive Programmer"]}
